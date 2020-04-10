@@ -42,7 +42,7 @@ option.add_argument('headless')
 driver = webdriver.Chrome(options=option)
 
 
-fetch('https://www.youtube.com/watch?v=s-Cu1EDHJZ0')
+#fetch('https://www.youtube.com/watch?v=s-Cu1EDHJZ0')
 print('''Enter your choice?
            1- Enter Single link manually - 
            2- Multiple Links from link.txt file''')
